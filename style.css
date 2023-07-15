@@ -1,0 +1,24 @@
+body{
+    background-color: #D6EFFF;
+}
+.pad{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin:100px;
+    margin-top: 20px;
+}
+#grid{
+    width: 500px;
+    height: 500px;
+    display: grid;
+    border: 10px solid #FED99B;
+    /* border-style: */
+    background-color: #FEFEFF;
+}
+
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
